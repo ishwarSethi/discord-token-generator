@@ -26,3 +26,4 @@ npm install
 ```
 npm run watch
 ```
+[![Run on Repl.it](https://repl.it/badge/github/orels1/discord-token-generator)](https://repl.it/github/orels1/discord-token-generator)
